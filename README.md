@@ -6,3 +6,8 @@ NS1
 - Identify trends in the data
 - Look for relationships between variables
 - Communicate results with visualizations (scatter plots, histograms, etc.)
+
+
+### Extract Data
+
+Extract data from random file using extraction code.
